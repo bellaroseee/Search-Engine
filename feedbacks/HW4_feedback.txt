@@ -1,0 +1,23 @@
+HW4 Feedback
+
+
+Test Suite: 220/220
+
+
+Valgrind: 5/5
+
+
+Modularity: 5/5
+
+
+Robustness and error checking: 8/10
+(-1) HttpServer_ThrFn sets done=true if GetNextRequest fails, but keeps going.
+(-1) HttpServer_ThrFn closes the socket before HttpConnection is destructed. Since HttpConnection destructor closes the socket, this results in closing the socket twice.
+
+Comments, Blending with starter code and other style issues:  5/5
+
+
+Server Test:  10/10
+
+
+Extra Credit: 0/5

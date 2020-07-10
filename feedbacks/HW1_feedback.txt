@@ -1,0 +1,26 @@
+HW1 Feedback
+
+
+Test Suite: 215/215
+
+
+Valgrind: 5/5
+
+
+Modularity: 5/5
+
+
+Blending with starter code: 4/5
+(-1) needs better command on HT helper method. needs to describe argument and return value.
+
+
+Robustness and error checking: 5/5
+
+
+Comments and other style issues: 5/5
+
+
+Bonus: 0/5
+
+
+Extra credit: 0/5

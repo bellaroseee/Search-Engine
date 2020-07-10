@@ -1,0 +1,23 @@
+HW3 Feedback
+
+
+Test Suite: 290/290
+
+
+Valgrind: 5/5
+
+
+Modularity: 4/5
+(-1) Calculates checksum reading one byte at a time. Read more bytes into a buffer instead of calling fread for every byte.
+
+Robustness and error checking: 5/5
+
+
+Comments, Blending, and other style issues: 3/5
+(-1) Uses a C-style cast in C++ code. Use C++ casts to be more explicit with the intention of the cast.
+(-1) Uses C idiom in C++ code - NULL, malloc, free.
+
+Search shell: 3/5
+(-2) Search results not as expected with multiple words.
+
+Extra Credit: 0/5
