@@ -1,3 +1,12 @@
 [submodule "hw1"]
 	path = hw1
 	url = https://github.com/bellaroseee/SysProg-hw1
+[submodule "hw2"]
+	path = hw2
+	url = https://github.com/bellaroseee/SysProg-hw2
+[submodule "hw4"]
+	path = hw4
+	url = https://github.com/bellaroseee/SysProg-hw4
+[submodule "hw3"]
+	path = hw3
+	url = https://github.com/bellaroseee/SysProg-hw3
