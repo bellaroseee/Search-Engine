@@ -4,9 +4,8 @@ a four-part project to build a simple search engine
 
 ## Part 1 : Implementing C data structures: doubly-linked list and chained hash table
 Link to documentations [](here)
-# Implementing C data structures: doubly-linked list and chained hash table
-## Doubly-Linked List
-### Data Structure
+### Doubly-Linked List
+#### Data Structure
 | Program Files | |
 | --- | --- |
 | [LinkedList.h](https://github.com/bellaroseee/SysProg-hw1/blob/master/LinkedList.h) | header file for Linked List data structure |
@@ -16,8 +15,8 @@ Link to documentations [](here)
 | Test Files | |
 | --- | --- |
 | [test_linkedlist.cc](https://github.com/bellaroseee/SysProg-hw1/blob/master/test_linkedlist.cc) | unit tests for linked list |
-## Chained Hash Table
-### Data Structure
+### Chained Hash Table
+#### Data Structure
 | Program Files |  |
 | --- | --- |
 | [HashTable.h](https://github.com/bellaroseee/SysProg-hw1/blob/master/HashTable.h) | header file for Hash Table data structure | 
@@ -28,10 +27,10 @@ Link to documentations [](here)
 | --- | --- |
 | [test_hashtable.cc](https://github.com/bellaroseee/SysProg-hw1/blob/master/test_hashtable.cc) | unit tests for hash table |
   
-## Test Result
+### Test Result
 ![alt_text](https://raw.githubusercontent.com/bellaroseee/SysProg-hw1/master/public/hw-1-test.jpg)
 
-## Memory Check
+### Memory Check
 ![alt text](https://raw.githubusercontent.com/bellaroseee/SysProg-hw1/master/public/memory-check.jpg)
 
 
