@@ -28,7 +28,7 @@ Link to documentations [](here)
 | [test_hashtable.cc](https://github.com/bellaroseee/SysProg-hw1/blob/master/test_hashtable.cc) | unit tests for hash table |
   
 ### Test Result
-![alt_text](https://raw.githubusercontent.com/bellaroseee/SysProg-hw1/master/public/hw-1-test.jpg#testresult)
+![alt_text](https://raw.githubusercontent.com/bellaroseee/SysProg-hw1/master/public/hw-1-test.jpg){: height=100}
 
 ### Memory Check
 ![alt text](https://raw.githubusercontent.com/bellaroseee/SysProg-hw1/master/public/memory-check.jpg)
