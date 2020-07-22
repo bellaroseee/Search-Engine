@@ -38,6 +38,7 @@ Link to documentations [](here)
 Link to documentations [](here)
 ### File Parser
 parse a text file to individual words
+  
 | Program Files | |
 | --- | --- |
 | [FileParser.h](https://github.com/bellaroseee/SysProg-hw2/blob/master/FileParser.h) | header file for parsing file |
@@ -49,7 +50,7 @@ parse a text file to individual words
 ### File System Crawler and Indexer
 | Program Files | |
 | --- | --- |
-| [DocTable.h](https://github.com/bellaroseee/SysProg-hw2/blob/master/DocTable.h) | header file for Document Table <br/> filenames and document IDs |
+| [DocTable.h](https://github.com/bellaroseee/SysProg-hw2/blob/master/DocTable.h) | header file for Document Table |
 | [DocTable.c](https://github.com/bellaroseee/SysProg-hw2/blob/master/DocTable.cc) | implementation for Document Table |
 | [CrawlFileTree.h](https://github.com/bellaroseee/SysProg-hw2/blob/master/CrawlFileTree.h) | header file for Directory Crawler |
 | [CrawlFileTree.c](https://github.com/bellaroseee/SysProg-hw2/blob/master/CrawlFileTree.c) | implementation for Directory Crawler |
