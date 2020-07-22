@@ -80,5 +80,6 @@ Link to documentations [](here)
 Link to documentations [](here)
 
 ## About the Course
-Systems Programming course at the University of Washington.
+[Systems Programming](https://courses.cs.washington.edu/courses/cse333/20sp/) course at the University of Washington.
+  
 Taken Spring 2020 under Hal Perkins
