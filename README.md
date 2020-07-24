@@ -27,12 +27,6 @@ Link to documentations [](here)
 | --- | --- |
 | [test_hashtable.cc](https://github.com/bellaroseee/SysProg-hw1/blob/master/test_hashtable.cc) | unit tests for hash table |
   
-### Test Result
-![alt_text](https://raw.githubusercontent.com/bellaroseee/SysProg-hw1/master/public/hw-1-test.jpg){: height=100}
-
-### Memory Check
-![alt text](https://raw.githubusercontent.com/bellaroseee/SysProg-hw1/master/public/memory-check.jpg)
-
 
 ## Part 2 : Implementing file system crawler, indexer and search engine
 Link to documentations [](here)
@@ -66,12 +60,6 @@ parse a text file to individual words
 | Program Files | |
 | --- | --- |
 | [searchshell.c](https://github.com/bellaroseee/SysProg-hw2/blob/master/searchshell.cc) | query processor <br/> process a query and return a list of matching documents |
-
-## Test Result
-![alt_text](https://raw.githubusercontent.com/bellaroseee/SysProg-hw2/master/public/hw2-test-.jpg)
-
-## Memory Check
-![alt_text](https://raw.githubusercontent.com/bellaroseee/SysProg-hw2/master/public/memory-check.jpg)
 
 
 ## Part 3 : Disk-Based File System Search Engine
