@@ -3,7 +3,7 @@ a four-part project to build a simple search engine
 ## Demo
 
 ## Part 1 : Implementing C data structures: doubly-linked list and chained hash table
-Link to documentations [](here)
+Link to documentations [https://github.com/bellaroseee/SysProg-hw1/tree/master](here)
 ### Doubly-Linked List
 #### Data Structure
 | Program Files | |
@@ -29,7 +29,7 @@ Link to documentations [](here)
   
 
 ## Part 2 : Implementing file system crawler, indexer and search engine
-Link to documentations [](here)
+Link to documentations [https://github.com/bellaroseee/SysProg-hw2/tree/master](here)
 ### File Parser
 parse a text file to individual words
   
