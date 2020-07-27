@@ -3,7 +3,7 @@ a four-part project to build a simple search engine
 ## Demo
 
 ## Part 1 : Implementing C data structures: doubly-linked list and chained hash table
-Link to documentations [here](https://github.com/bellaroseee/SysProg-hw1/tree/master)
+Link to documentations [here](https://github.com/bellaroseee/SysProg-hw1)
 ### Doubly-Linked List
 #### Data Structure
 | Program Files | |
@@ -29,7 +29,7 @@ Link to documentations [here](https://github.com/bellaroseee/SysProg-hw1/tree/ma
   
 
 ## Part 2 : Implementing file system crawler, indexer and search engine
-Link to documentations [here](https://github.com/bellaroseee/SysProg-hw2/tree/master)
+Link to documentations [here](https://github.com/bellaroseee/SysProg-hw2)
 ### File Parser
 parse a text file to individual words
   
@@ -63,7 +63,22 @@ parse a text file to individual words
 
 
 ## Part 3 : Disk-Based File System Search Engine
-Link to documentations [](here)
+Link to documentations [here](https://github.com/bellaroseee/SysProg-hw3)
+### Memory-to-File Index Marshaller
+| Program Files | | 
+| --- | --- | 
+| [Utils.h](https://github.com/bellaroseee/SysProg-hw3/blob/master/Utils.h) | utility class for functions and constant to use throughout the program |
+| [Utils.cc](https://github.com/bellaroseee/SysProg-hw3/blob/master/Utils.cc) | implementation of Utils header file | 
+| [LayoutStructs.h](https://github.com/bellaroseee/SysProg-hw3/blob/master/LayoutStructs.h) | header file representing the in-memory structs of on-disk data structure |
+| [WriteIndex.h](https://github.com/bellaroseee/SysProg-hw3/blob/master/WriteIndex.h) | Memory Index amd DocTable mapping to index file |
+| [WriteIndex.cc](https://github.com/bellaroseee/SysProg-hw3/blob/master/WriteIndex.cc) | implementation of WriteIndex header file |
+
+| Test Files | | 
+| --- | --- | 
+| [test_fileindexutil.cc](https://github.com/bellaroseee/SysProg-hw3/blob/master/test_fileindexutil.cc) | unit test for Utils.cc |
+| [test_utils.cc](https://github.com/bellaroseee/SysProg-hw3/blob/master/test_utils.cc) | unit test for Utils.cc  |
+| [test_writeindex.cc](https://github.com/bellaroseee/SysProg-hw3/blob/master/test_writeindex.cc) | unit test for WriteIndex implementation | 
+
 
 ## Part 4 : Mulithreaded Web Server
 Link to documentations [](here)
